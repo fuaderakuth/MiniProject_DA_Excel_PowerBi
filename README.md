@@ -16,7 +16,7 @@
 
 ***
 
-### (__Power BI__)
+### __Power BI__
 
 1. Loaded the cleaned excel dataset to Power Bi, and the following actions were made:
    * Replaced "Unrated" with null value from the "Client_Satisfaction" field and changed its type to percentage in order to make the visualization error free.
